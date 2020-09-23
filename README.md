@@ -20,3 +20,6 @@ The analysis is divided into different steps:
  - Comments on results achieved.
  
  All the results and the analysis can be found in the file `report.html`.
+
+## Libraries 
+Libraries used: Pandas, Sklearn, Numpy, Plotly, Matplotlib, Seaborn, Imblearn.
