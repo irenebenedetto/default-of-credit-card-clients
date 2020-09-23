@@ -15,7 +15,7 @@ The analysis is divided into different steps:
  - Data cleaning: processing of data that involves correction of errors, outlier detection, analysis of correlation;
  - Outlier detection: identification and removal of rows considered as possible outliers by different algorithm of outlier detection;
  - Correlation and dimensionality reduction: analysis of correlated features and application of [PCA](https://en.wikipedia.org/wiki/Principal_component_analysis);
- - Dataset umbalancing managment: application of some tecninques for managing imbalancing in classes;
+ - Class imbalancing managment: application of some tecninques for managing imbalancing in classes;
  - Classification algorithms and metrics for evaluation;
  - Comments on results achieved.
  
