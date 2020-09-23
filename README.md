@@ -1,5 +1,5 @@
 # UCI Default of Credit Card Clients Dataset analysis
-Tesina for the Mathematics in Machine Learning course. <br/>
+
 Analysis of the dataset [UCI Default of Credit Card Clients Dataset](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients), that contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.<br/>
  
  The repository containes three folders:
