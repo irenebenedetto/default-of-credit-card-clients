@@ -19,9 +19,9 @@ The analysis is divided into different steps:
  - Classification algorithms and metrics for evaluation;
  - Comments on results achieved.
  
- All the results and the analysis can be found in the file `report.html`.
+ All the results and the analysis can be found in the file `report.html`. Nbviewer version available at: [Default of credit card clients](https://nbviewer.jupyter.org/github/irenebenedetto/default-of-credit-card-clients/blob/master/run.ipynb)
 
 ## Libraries 
 Libraries used: Pandas, Sklearn, Numpy, Plotly, Matplotlib, Seaborn, Imblearn.
 
-Nbviewer version available at: [Default of credit card clients](https://nbviewer.jupyter.org/github/irenebenedetto/default-of-credit-card-clients/blob/master/run.ipynb)
+
