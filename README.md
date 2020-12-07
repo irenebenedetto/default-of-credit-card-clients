@@ -23,3 +23,5 @@ The analysis is divided into different steps:
 
 ## Libraries 
 Libraries used: Pandas, Sklearn, Numpy, Plotly, Matplotlib, Seaborn, Imblearn.
+
+Nbviewer version available at: [Default of credit card clients](https://nbviewer.jupyter.org/github/irenebenedetto/default-of-credit-card-clients/blob/master/run.ipynb)
